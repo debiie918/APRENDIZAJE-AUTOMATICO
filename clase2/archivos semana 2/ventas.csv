@@ -1,0 +1,11 @@
+id_venta,fecha,producto,cantidad,precio_unitario
+1,2026-01-10,Notebook,2,1200
+2,2026-01-12,Mouse,5,25
+3,2026-01-15,Teclado,3,45
+4,2026-01-18,Monitor,1,300
+5,2026-01-19,Auxiliar,3,200
+6,2026-01-20,Monitor,2,300
+7,2026-01-21,Auxiliar,1,200
+8,2026-01-22,Notebook,3,1200
+9,2026-01-23,Teclado,2,45
+10,2026-01-24,Mouse,3,25
